@@ -1,0 +1,36 @@
+baseURL = 'https://example.com'
+languageCode = 'en-us'
+title = 'Resume'
+theme = 'hugo-developer-portfolio'
+
+[params]
+home = "Home" # What you want the homepage to show up as in the menu bar
+# Meta data
+description = "The website of Masashi Tanimoto, Japanese System Engineer."
+author = "Masashi Tanimoto"
+favicon = true
+
+[params.plugins]
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css"
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"
+  [[params.plugins.js]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"
+
+# navigation
+[menu]
+  [[menu.main]]
+  name = "About"
+  URL = "about"
+
+[params.contact]
+# formAction = "https://formspree.io/<Insert code>" # Add your formspree URL here to get emails
+
+# This contains the contact information for the footer
+[params.footer]
+email = "tanimoto.masashi@protonmail.com"
+address = "岐阜県多治見市"
+googlemaps = "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJrQ2X519qA2ARJlle7zz6MQk&key=AIzaSyDEOr31mXa2a_SJ4R7hHEWubh6wE8w-kdU"

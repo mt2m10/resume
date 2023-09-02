@@ -1,0 +1,131 @@
+banner:
+  title: |-
+    Hi! I am Masashi Tanimoto.
+social:
+  twitter: ""
+  linkedin: "masashitanimoto-7a436028b"
+  github: "mt2m10"
+  gitlab: ""
+  facebook: ""
+  instagram: "mt2m10"
+  gmail: masashi2669
+
+about:
+  enable: true
+  content: |-
+    少しお酒が好きなシステムエンジニアです。
+  button:
+    btnText: 詳細はこちら
+    URL: "/about"
+
+skill:
+  enable: true
+  item:
+    - title: Python
+      logo: /python.png
+      description: |-
+        - 2022年から一番使っている言語<br/>
+        - AWS Lambdaを用いたWebAPIの開発経験あり<br/>
+        - 主にv3.8で開発し、他のバージョンは経験なし
+    - title: PHP
+      logo: /php.png
+      description: |-
+        - 一番使っていた時期は、2018年から2021年<br/>
+        - CodeIgniterを用いたWebアプリケーションの開発経験あり<br/>
+        - 主にv7.3で開発し、v8.0以降は経験なし
+    - title: Java
+      logo: /java.png
+      description: |-
+        - 一番最初に覚えた言語<br/>
+        - 実務ではJava 7のみ経験あり
+    - title: JavaScript
+      logo: /javascript.png
+      description: |-
+        - フロントエンド開発のため経験<br/>
+        - Webアプリケーション開発が多いため、利用頻度は高い<br/>
+        - jQueryを利用した開発経験あり
+    - title: HTML
+      logo: /html.png
+      description: |-
+        - フロントエンド開発のため経験<br/>
+        - Webアプリケーション開発が多いため、利用頻度は高い
+    - title: CSS
+      logo: /css.png
+      description: |-
+        - フロントエンド開発のため経験<br/>
+        - 基本的な読み書きはできる
+    - title: SQL
+      logo: /sql.png
+      description: |-
+        - 関わってきた様々な案件で経験<br/>
+        - 基本的な読み書きはできる<br/>
+        - 実行計画を意識したSELECT文が書ける
+    - title: Next.js
+      logo: /nextjs.png
+      description: |-
+        - フロントエンド開発のため1年ほど経験<br/>
+        - 一人でアプリケーションを開発することができる
+    - title: AWS
+      logo: /aws.png
+      description: |-
+        - 実務で利用しているクラウドサービス<br/>
+        - 簡単なサービス設計はできる<br/>
+        - デザインパターンを見て理解できる
+    - title: Webアプリケーション開発
+      logo: /webdevelopment.png
+      description: |-
+        - 要件定義から設計、開発、テストまで一貫して担当
+    - title: 運用・保守
+      logo: /operation_maintenance.png
+      description: |-
+        - エンドユーザーからの問い合わせ対応や不具合改修を経験<br/>
+        - 障害時の調査・報告やデータパッチの作成・実施を経験している
+
+experience:
+  enable: true
+  item:
+    - logo: https://i.gyazo.com/eb9eeb6e587054dde3207c36784a0ee6.jpg
+      title: システムエンジニア
+      company: 株式会社ロココ
+      duration: 2018.4 - 現在
+    - logo: https://i.gyazo.com/a0a82263e707f00d9c4a1123c51b6508.jpg
+      title: システムエンジニア
+      company: 株式会社システムリサーチ
+      duration: 2012.4 - 2018.3
+
+certifications:
+  enable: true
+  item:
+    - title: JDLA Deep Learning for GENERAL
+      image: /jdla_deeplerning_for_general_2023_3.png
+      url: https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/SE1xbTVpM0ljRHc5SDRpekVPSWtyUT09
+    - title: AWS Certified Solutions Architect – Associate
+      image: https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png
+      url: https://www.credly.com/badges/9cc9249d-237e-4221-8889-350eb80fcc67
+    - title: AWS Certified Cloud Practitioner
+      image: https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png
+      url: https://www.credly.com/badges/3df0e8ce-7e30-4ead-8cd9-bf4a68ec6738
+    - title: ORACLE MASTER Bronze Oracle Database 12c
+      image: https://brm-workforce.oracle.com/pdf/certview/images/BRZDBA12CJPN.png
+      url: https://catalog-education.oracle.com/pls/certview/sharebadge?id=81D2139EAB07DECFD3F8CDEE6041FFF3CD377869A7E1CBA3A522FDD207D7D61E
+    - title: LPIC-1
+      image: https://images.credly.com/size/680x680/images/28669969-37c3-4fd1-9ef6-f67309e75bb7/LPI_LPIC1.png
+      url: https://drive.google.com/file/d/1aCUBD_WvJ6jzDxLlhRG3yQagAU1ArGT3/view?usp=drive_link
+    - title: 応用情報技術者試験
+      image: https://i.gyazo.com/c6dfe170e7db34d65e7e8379f577ae43.png
+      url: https://drive.google.com/file/d/1uUWhOlwfV-92yj-A18cYq7eBUnu6PSAG/view?usp=drive_link
+    - title: Oracle Certified Java Programmer, Gold SE 8
+      image: https://brm-workforce.oracle.com/pdf/certview/images/GLDSE8JPN.png
+      url: https://catalog-education.oracle.com/pls/certview/sharebadge?id=7EA51F3D871B746A7479BE3EF80CEAFAECA10662267437A3DB7FB282E022854B
+
+education:
+  enable: true
+  item:
+    - title: |-
+        経済学部経済学科
+      year: 2007.4 - 2012.3
+      academy: 立教大学
+      image: https://i.gyazo.com/84fc73434c5828abf288c72583dc6a00.png
+    - year: 2003.4 - 2006.3
+      academy: 茨城県立竹園高等学校
+      image: https://i.gyazo.com/261095c5632365657dd87ec63b223827.jpg
