@@ -1,6 +1,6 @@
 baseURL = 'https://resume-3mk.pages.dev'
 languageCode = 'ja-JP'
-title = 'Resume'
+title = 'Resume - Masashi Tanimoto'
 theme = 'hugo-developer-portfolio'
 
 [params]
@@ -9,6 +9,7 @@ home = "Home" # What you want the homepage to show up as in the menu bar
 description = "The website of Masashi Tanimoto, Japanese System Engineer."
 author = "Masashi Tanimoto"
 favicon = true
+image = "favicon/ms-icon-310x310.png"
 
 [params.plugins]
   # CSS Plugins
@@ -23,7 +24,7 @@ favicon = true
 # navigation
 [menu]
   [[menu.main]]
-  name = "About"
+  name = "About Me"
   URL = "about"
 
 [params.contact]
