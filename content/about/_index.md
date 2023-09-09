@@ -53,11 +53,15 @@ authorImage: "/about_author.png"
 
 少しでも使ったことあるものも書き出しています。
 
-|           |                                                                         |
-| --------- | ----------------------------------------------------------------------- |
-| Language  | Java, PHP, Python, HTML, JavaScript, CSS, React.js, ShellScript, VB.NET |
-| Framework | Struts, Spring, CodeIgniter, Laravel, Bootstrap, Material UI, Next.js   |
-| DBMS      | Oracle, MySQL, PostgreSQL                                               |
-| Backend   | Apache, nginx, Docker, Vagrant                                          |
-| Platform  | AWS, Azure                                                              |
-| Misc      | Git, Chalice, pytest, 正規表現, Sphinx, Docusaurus, Mybatis             |
+|           |                                                                       |
+| --------- | --------------------------------------------------------------------- |
+| Language  | Java, PHP, Python, HTML, JavaScript, CSS, Elm, ShellScript, VB.NET    |
+| Framework | Struts, Spring, CodeIgniter, Laravel, Bootstrap, Material UI, Next.js |
+| DBMS      | Oracle, MySQL, PostgreSQL                                             |
+| Backend   | Apache, nginx, Docker, Vagrant                                        |
+| Platform  | AWS, Azure                                                            |
+| Misc      | Git, Chalice, pytest, 正規表現, Sphinx, Docusaurus, Mybatis           |
+
+## その他
+
+各見出しの詳細やその他の情報は[Scprabox](https://scrapbox.io/tnmt-note/About_Me)で確認できます。興味のある方はご覧ください！
