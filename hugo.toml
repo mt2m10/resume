@@ -32,6 +32,6 @@ image = "favicon/ms-icon-310x310.png"
 
 # This contains the contact information for the footer
 [params.footer]
-email = "tanimoto.masashi@protonmail.com"
+email = "tanimoto.masashi@hotmail.com"
 address = "岐阜県多治見市"
 googlemaps = "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJrQ2X519qA2ARJlle7zz6MQk&key=AIzaSyDEOr31mXa2a_SJ4R7hHEWubh6wE8w-kdU"

@@ -3,11 +3,11 @@ banner:
     Hi! I am Masashi Tanimoto.
 social:
   twitter: ""
-  linkedin: "masashitanimoto-7a436028b"
-  github: "mt2m10"
+  linkedin: ""
+  github: "tnmt-1"
   gitlab: ""
   facebook: ""
-  instagram: "mt2m10"
+  instagram: "tnmt_0"
   gmail: masashi2669
 
 about:
@@ -16,7 +16,7 @@ about:
     少しお酒が好きなシステムエンジニアです。
   button:
     btnText: 詳細はこちら
-    URL: "/about"
+    URL: "https://scrapbox.io/tnmt-note/About_Me"
 
 skill:
   enable: true
